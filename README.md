@@ -1,5 +1,4 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Pokemon Php" />
 
   &#xa0;
 
